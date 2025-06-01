@@ -52,8 +52,7 @@ A starter template for building CRUD (Create, Read, Update, Delete) applications
 - Modify the model, repository, service, and controller packages to fit your domain.
 - Update `application.properties` for your database or environment needs.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+## Project Preview
+This application provides a simple interface for managing records with full Create, Read, Update, and Delete (CRUD) functionality using Spring Boot and Spring MVC. The UI is clean and responsive, making it easy to add, edit, or remove entries.
 
-## License
-This project is licensed under the MIT License. 
+https://github.com/user-attachments/assets/884d1865-3320-49e1-9886-fc2b6c25219c
